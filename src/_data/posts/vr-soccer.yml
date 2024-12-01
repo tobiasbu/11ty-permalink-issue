@@ -1,0 +1,10 @@
+name: VRSoccer
+date: 2015
+tags:
+  - Unity
+  - OpenCV
+  - Student
+
+featuredImg: vrsoccer.jpg
+
+excerpt: "A computer vision's soccer game for two players."

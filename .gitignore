@@ -1,0 +1,18 @@
+# Mac OS
+.DS_Store
+
+# Node modules
+node_modules
+
+# generated files
+_site
+
+# cache
+.cache
+
+# secret data
+.env
+
+# bundled resources
+src/_includes/_js/*
+src/_includes/_css/*

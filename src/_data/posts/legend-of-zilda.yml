@@ -1,0 +1,11 @@
+name: Legend of Zilda
+date: 2013
+tags: 
+  - C++
+  - Student
+
+featuredImg: zilda.png
+style:
+  pixelated: true
+
+excerpt: "Parody game based in _The Legend of Zelda: Link's Awakening_."

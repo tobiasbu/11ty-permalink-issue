@@ -1,0 +1,9 @@
+name: OBJ Loader
+date: 2014
+tags:
+  - C++
+  - Student
+
+featuredImg: objloader.jpg
+
+excerpt: "A simple .obj file loader"
